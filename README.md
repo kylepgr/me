@@ -1,6 +1,4 @@
-# Moss & Ember
-
-Nature-forward coffeehouse concept site built with Vite + React.
+# My site
 
 Run locally:
 
